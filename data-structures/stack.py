@@ -1,5 +1,5 @@
 """
-stack in python
+using linked list for stack in python
 """
 
 class Element(object):
